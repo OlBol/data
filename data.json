@@ -1,4 +1,4 @@
 {
-	direction: 'dir',
-	time: 'time'
+	"direction": "dir",
+	"time": "time"
 }
